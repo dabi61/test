@@ -1,0 +1,10 @@
+C:\Users\HT\Desktop\C#\Đề thi utt\SqlAdapter\SqlAdapter\bin\Debug\SqlAdapter.exe.config
+C:\Users\HT\Desktop\C#\Đề thi utt\SqlAdapter\SqlAdapter\bin\Debug\SqlAdapter.exe
+C:\Users\HT\Desktop\C#\Đề thi utt\SqlAdapter\SqlAdapter\bin\Debug\SqlAdapter.pdb
+C:\Users\HT\Desktop\C#\Đề thi utt\SqlAdapter\SqlAdapter\obj\Debug\SqlAdapter.csproj.AssemblyReference.cache
+C:\Users\HT\Desktop\C#\Đề thi utt\SqlAdapter\SqlAdapter\obj\Debug\SqlAdapter.Form1.resources
+C:\Users\HT\Desktop\C#\Đề thi utt\SqlAdapter\SqlAdapter\obj\Debug\SqlAdapter.Properties.Resources.resources
+C:\Users\HT\Desktop\C#\Đề thi utt\SqlAdapter\SqlAdapter\obj\Debug\SqlAdapter.csproj.GenerateResource.cache
+C:\Users\HT\Desktop\C#\Đề thi utt\SqlAdapter\SqlAdapter\obj\Debug\SqlAdapter.csproj.CoreCompileInputs.cache
+C:\Users\HT\Desktop\C#\Đề thi utt\SqlAdapter\SqlAdapter\obj\Debug\SqlAdapter.exe
+C:\Users\HT\Desktop\C#\Đề thi utt\SqlAdapter\SqlAdapter\obj\Debug\SqlAdapter.pdb
