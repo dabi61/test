@@ -96,5 +96,10 @@ namespace SqlAdapter
         {
             MessageBox.Show("Test thành công");
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Test nhánh thành công");
+        }
     }
 }
