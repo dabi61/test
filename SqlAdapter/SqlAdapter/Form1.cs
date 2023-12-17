@@ -31,7 +31,7 @@ namespace SqlAdapter
             SqlCommandBuilder builder = new SqlCommandBuilder(adapter);
 
             ds = new DataSet();
-            adapter.Fill(ds,"SanPham");
+            adapter.Fill(ds, "SanPham");
             gvSanPham.DataSource = ds.Tables["SanPham"];
         }
 
@@ -57,7 +57,7 @@ namespace SqlAdapter
         private void gvSanPham_CellClick(object sender, DataGridViewCellEventArgs e)
         {
             vt = e.RowIndex;
-            if(vt != -1)
+            if (vt != -1)
             {
                 DataRow row = ds.Tables["SanPham"].Rows[vt];
                 txtMa.Text = row["Ma"] + "";
@@ -85,6 +85,16 @@ namespace SqlAdapter
                     btnNhapDuLieu.PerformClick();
                 }
             }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void button2_Click_1(object sender, EventArgs e)
+        {
+            MessageBox.Show("Test thành công");
         }
     }
 }
